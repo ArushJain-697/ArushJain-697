@@ -1,27 +1,54 @@
-# ArushJain
+# Arush Jain
 
-First year CSE @ IIIT Bangalore. I build backend systems and figure out why things break.
+CSE @ IIIT Bangalore.
+I build backend systems, infrastructure-heavy projects, and occasionally things that should probably not work offline.
 
-## What I've built
+## What I've Built
 
-**[Sicari.works](https://sicari.works)** — A role-based job board with a custom skill matching engine. Production backend, self-hosted on Azure with Nginx, Cloudflare edge protection, and 8 security layers. Built it to understand what production actually looks like.
+### [Sicari.works](https://sicari.works)
 
-**Omen** — A fully offline peer-to-peer mesh emergency network written in C. Custom UDP node discovery protocol, RDT 3.1, POSIX threads, Dockerized. No router, no internet, no central server needed.
+Role-based job board and backend system built solo.
 
-**DevSignal** *(building)* — Batch candidate intelligence engine for technical hiring teams. Analyzes GitHub profiles at scale and returns ranked reports with reasoning per candidate.
+Self hosted on Azure VM with Nginx, PM2, Cloudflare proxying, GitHub Actions CI/CD, audit logging, idempotency protection, timing-safe request signing, and production security hardening.
+
+Built mainly to understand what production infrastructure actually looks like outside tutorials.
+
+---
+
+### OMEN
+
+Fully offline peer-to-peer mesh network written in C.
+
+Custom UDP node discovery, RDT 3.1 reliability layer, POSIX threads, Dijkstra-based multi-hop routing, Dockerized.
+
+No router. No internet. No central server.
+
+---
+
+### DevSignal *(building)*
+
+Batch GitHub candidate intelligence engine for hiring teams.
+
+Processes developer profiles and returns ranked reports with reasoning per candidate.
+
+## Interests
+
+* Backend engineering
+* Distributed systems
+* Infrastructure / DevOps
+* Cybersecurity
 
 ## Stack
 
+**Backend**
+Node.js · Express · MySQL · C
 
-Backend        Node.js · Express · MySQL · C
+**Infrastructure**
+Azure VM · Nginx · Docker · PM2 · Cloudflare · GitHub Actions
 
-DevOps         Azure VM · Nginx · Docker · PM2 · Cloudflare · GitHub Actions
-
-Security       JWT · bcrypt · Zod · Helmet · CORS · parameterized queries
-
+**Security**
+JWT · bcrypt · audit logging · idempotency protection · input sanitization
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/arush-jain-42054a385/) · · [Email](arushjain.work697@gmail.com)
-
-
+[LinkedIn](https://www.linkedin.com/in/arush-jain-42054a385/) · [Email](mailto:arushjain.work697@gmail.com)
