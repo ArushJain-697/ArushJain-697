@@ -51,4 +51,4 @@ JWT · bcrypt · audit logging · idempotency protection · input sanitization
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/arush-jain-42054a385/) · [Email](mailto:arushjain.work697@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/arush-jain-42054a385/) · [Resume](https://github.com/ArushJain-697/ArushJain-697/raw/main/RESUME.pdf) · [Email](mailto:arushjain.work697@gmail.com)
