@@ -19,7 +19,7 @@ Built mainly to understand what production infrastructure actually looks like ou
 
 Fully offline peer-to-peer mesh network written in C.
 
-Custom UDP node discovery, RDT 3.1 reliability layer, POSIX threads, Dijkstra-based multi-hop routing, Dockerized.
+Custom UDP node discovery, RDT 3.0 stop-and-wait ARQ, libsodium authenticated encryption, POSIX threads, Dockerized.
 
 No router. No internet. No central server.
 
