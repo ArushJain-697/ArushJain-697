@@ -1,6 +1,6 @@
 # Arush Jain
 
-CS @ IIIT Bangalore. Into systems, AI, infrastructure, and the rabbit holes that come with trying to build something.
+CS @ IIIT-Bangalore. Into systems, AI, infrastructure, and the rabbit holes that come with trying to build something.
 
 Mostly backend and infra, plus the occasional thing that probably shouldn't work offline but does. Usually working on something, or thinking about what to build next.
 
